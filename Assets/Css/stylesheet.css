@@ -31,3 +31,44 @@
     background-size: cover;
     background-position: center;
 } 
+
+/* Navbar */
+
+.hover-style{
+    color: white;
+}
+.hover-style:hover, .hover-style:focus{
+    color:  #e2b241;
+}
+
+.hover-style:active{
+    color:  #e2b241;
+}
+/* Gallery */
+
+
+.hover-color:focus{
+    color:  #e2b241;
+}
+
+.hover-color:hover{
+    color:  #e2b241;
+}
+
+.background-hover{
+    background-color: #d8d7d7;
+}
+
+.background-hover:hover, .background-hover:focus, .background-hover:active {
+    background-color: #e2b241;
+}
+
+/* Blog */
+
+.hover-color2{
+    color: #241b18 ;
+}
+
+.hover-color2:hover, .hover-color2:focus{
+    color:  #e2b241;
+}
